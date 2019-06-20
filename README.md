@@ -1,2 +1,2 @@
 # AndroidHttpsSSL
-Android中https中但双向认证
+Android中https中单双向认证
